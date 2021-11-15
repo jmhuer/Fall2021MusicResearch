@@ -23,13 +23,13 @@ We are conducting a short survey about aspects of music. Please use headphones i
 **Name?**
 
 <b>
-<textarea rows="1" cols="20" type="text" name="EX3 SCORE"></textarea>
+<textarea rows="1" cols="20" type="text" name="EX0 SCORE"></textarea>
 <br><br>
 
 **Please rate your current musical abilities 1 - 10**
 
 <b>
-<textarea rows="1" cols="20" type="text" name="EX3 SCORE"></textarea>
+<textarea rows="1" cols="20" type="text" name="EX1 SCORE"></textarea>
 
 
 ---
@@ -74,7 +74,7 @@ Your browser does not support the audio element.
   <source src="../../../a.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
-<br><textarea rows="1" cols="20" type="text" name="EX3 SCORE"></textarea>
+<br><textarea rows="1" cols="20" type="text" name="EX2 SCORE"></textarea>
 
 ---
 
@@ -141,7 +141,7 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
-<textarea rows="1" cols="20" type="text" name="EX3 SCORE"></textarea><br><br>
+<textarea rows="1" cols="20" type="text" name="EX4 SCORE"></textarea><br><br>
 <br>
 
 
@@ -160,7 +160,7 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
-<textarea rows="1" cols="20" type="text" name="EX3 SCORE"></textarea><br><br>
+<textarea rows="1" cols="20" type="text" name="EX5 SCORE"></textarea><br><br>
 <br>
 
 
@@ -178,6 +178,9 @@ Your browser does not support the audio element.
   <source src="../../../a.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
+<br>
+<br>
+<textarea rows="1" cols="20" type="text" name="EX6 SCORE"></textarea><br><br>
 <br>
 
 ---
@@ -200,7 +203,7 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
-<textarea rows="1" cols="20" type="text" name="EX3 SCORE"></textarea><br><br>
+<textarea rows="1" cols="20" type="text" name="EX6 SCORE"></textarea><br><br>
 <br>
 
 
@@ -219,7 +222,7 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
-<textarea rows="1" cols="20" type="text" name="EX3 SCORE"></textarea><br><br>
+<textarea rows="1" cols="20" type="text" name="EX7 SCORE"></textarea><br><br>
 <br>
 
 
@@ -237,6 +240,9 @@ Your browser does not support the audio element.
   <source src="../../../a.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
+<br>
+<br>
+<textarea rows="1" cols="20" type="text" name="EX6 SCORE"></textarea><br><br>
 <br>
 
 <br>
