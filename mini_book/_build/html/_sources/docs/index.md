@@ -35,8 +35,8 @@ Before begining the survey please view/download the consent form:
 
 
 ---
-### Q1. Rank the music in order of preference.
-For example: B,A,D,C,E
+### Q1. Score from 1 - 10 according to your preference 
+For example: 5
 
 **A.**
 
@@ -45,6 +45,8 @@ For example: B,A,D,C,E
 Your browser does not support the audio element.
 </audio><br>
 <br>
+<br><textarea rows="1" cols="20" type="text" name="EX3 SCORE"></textarea>
+
 
 **B.**
 
@@ -53,6 +55,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
+<br><textarea rows="1" cols="20" type="text" name="EX3 SCORE"></textarea>
+
 
 **C.**
 
@@ -61,6 +65,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
+<br><textarea rows="1" cols="20" type="text" name="EX3 SCORE"></textarea>
+
 
 **D.**
 
@@ -69,6 +75,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
+<br><textarea rows="1" cols="20" type="text" name="EX3 SCORE"></textarea>
+
 
 **E.**
 
@@ -80,8 +88,8 @@ Your browser does not support the audio element.
 
 ---
 
-### Q2. Rank the music according to difficulty
-For example: B,A,D,C,E
+### Q2. Score from 1 - 10 according to perceived complexity 
+For example: 7
 
 **A.**
 
@@ -90,6 +98,8 @@ For example: B,A,D,C,E
 Your browser does not support the audio element.
 </audio><br>
 <br>
+<br><textarea rows="1" cols="20" type="text" name="EX3 SCORE"></textarea>
+
 
 **B.**
 
@@ -98,6 +108,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
+<br><textarea rows="1" cols="20" type="text" name="EX3 SCORE"></textarea>
+
 
 **C.**
 
@@ -106,6 +118,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
+<br><textarea rows="1" cols="20" type="text" name="EX3 SCORE"></textarea>
+
 
 **D.**
 
@@ -114,6 +128,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
+<br><textarea rows="1" cols="20" type="text" name="EX3 SCORE"></textarea>
+
 
 **E.**
 
@@ -126,7 +142,7 @@ Your browser does not support the audio element.
 ---
 
 ### Q3. Pick the piece that sounds more human
-For example: B,A,D,C,E
+For example: A
 
 **A.**
 
@@ -187,8 +203,8 @@ Your browser does not support the audio element.
 
 ---
 
-### Q4. Pick your favorite
-For example: B,A,D,C,E
+### Q4. Pick the piece that sounds more human
+For example: B
 
 **A.**
 
