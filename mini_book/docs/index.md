@@ -12,7 +12,7 @@ We are conducting a short survey about aspects of music.  *Please use headphones
 
 Before begining the survey please view/download the consent form: 
 
-📄 **[*Donwload Consent Form*](https://github.com/jmhuer/jmhuer.github.io/raw/master/latex-resume/juan-cv/resume.pdf)**
+📄 **[*Donwload Consent Form*](https://github.com/jmhuer/Fall2021MusicResearch/blob/main/mini_book/pdfs/consent.pdf)**
   
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
