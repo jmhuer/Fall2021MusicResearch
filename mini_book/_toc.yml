@@ -1,2 +1,3 @@
-# - file: README
 - file: docs/index
+  sections:
+    - file: docs/consent

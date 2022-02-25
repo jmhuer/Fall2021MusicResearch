@@ -6,12 +6,14 @@
 <br>
 
 
+We are conducting a short survey about aspects of music.  *Please use headphones if possible.*
 
+### Consent Form
 
-We are conducting a short survey about aspects of music. Please use headphones if possible.
+Before begining the survey please view/download the consent form: 
 
-
-
+📄 **[*Donwload Consent Form*](https://github.com/jmhuer/jmhuer.github.io/raw/master/latex-resume/juan-cv/resume.pdf)**
+  
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <form action="https://formtoemail.com/user_forms.php" method="post">
@@ -26,10 +28,10 @@ We are conducting a short survey about aspects of music. Please use headphones i
 <textarea rows="1" cols="20" type="text" name="EX0 SCORE"></textarea>
 <br><br>
 
-**Please rate your current musical abilities 1 - 10**
+**Please describe your current musical abiltiies**
 
 <b>
-<textarea rows="1" cols="20" type="text" name="EX1 SCORE"></textarea>
+<textarea rows="6" style="width:22em" placeholder="" type="text" name="comment"></textarea><br><br><br>
 
 
 ---

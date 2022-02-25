@@ -26,7 +26,7 @@
 
     
     <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
-    <link rel="stylesheet" href="../_static/sphinx-book-theme.e7340bb3dbd8dde6db86f25597f54a1b.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/sphinx-book-theme.40e2e510f6b7d1648584402491bb10fe.css" type="text/css" />
     <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="../_static/mystnb.css" />
@@ -44,8 +44,8 @@
     <script src="../_static/clipboard.min.js"></script>
     <script src="../_static/copybutton.js"></script>
     <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="../_static/sphinx-book-theme.7d483ff0a819d6edff12ce0b1ead3928.js"></script>
-    <script async="async" src="https://unpkg.com/thebelab@latest/lib/index.js"></script>
+    <script src="../_static/sphinx-book-theme.d31b09fe5c1d09cb49b26a786de4a05d.js"></script>
+    <script async="async" src="https://unpkg.com/thebe@0.5.1/lib/index.js"></script>
     <script >
         const thebe_selector = ".thebe"
         const thebe_selector_input = "pre"
@@ -78,12 +78,15 @@
   <h1 class="site-logo" id="site-title">Thank you for participating</h1>
   
 </a>
-</div>
+</div><form class="bd-search d-flex align-items-center" action="../search.html" method="get">
+</form>
 <nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
     
 </nav> <!-- To handle the deprecated key -->
 
-
+<div class="navbar_extra_footer">
+   
+</div>
 
 </div>
 
@@ -94,21 +97,21 @@
           
 <main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
     
-    <div class="topbar container-xl fixed-top">
-    <div class="topbar-contents row">
-        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
-        <div class="col pl-md-4 topbar-main">
-            
-            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
-                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
-                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
-                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
-                <i class="fas fa-bars"></i>
-                <i class="fas fa-arrow-left"></i>
-                <i class="fas fa-arrow-up"></i>
-            </button>
-            
-            
+    <div class="row topbar fixed-top container-xl">
+    <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show">
+    </div>
+    <div class="col pl-2 topbar-main">
+        
+        <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+            data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+            aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
+            title="Toggle navigation" data-toggle="tooltip" data-placement="left">
+            <i class="fas fa-bars"></i>
+            <i class="fas fa-arrow-left"></i>
+            <i class="fas fa-arrow-up"></i>
+        </button>
+        
+        
 <div class="dropdown-buttons-trigger">
     <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
             class="fas fa-download"></i></button>
@@ -126,28 +129,32 @@
     </div>
 </div>
 
-            <!-- Source interaction buttons -->
+        <!-- Source interaction buttons -->
 
 
-            <!-- Full screen (wrap in <a> to have style consistency -->
-            <a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
-                    data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
-                    title="Fullscreen mode"><i
-                        class="fas fa-expand"></i></button></a>
+        <!-- Full screen (wrap in <a> to have style consistency -->
+        <a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
+                data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
+                title="Fullscreen mode"><i
+                    class="fas fa-expand"></i></button></a>
 
-            <!-- Launch buttons -->
+        <!-- Launch buttons -->
 
-        </div>
+    </div>
 
-        <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show">
-            
+    <!-- Table of contents -->
+    <div class="d-none d-md-block col-md-2 bd-toc show">
+        
         <div class="tocsection onthispage pt-5 pb-3">
-            <i class="fas fa-list"></i>
-            Contents
+            <i class="fas fa-list"></i> Contents
         </div>
         <nav id="bd-toc-nav">
             <ul class="nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#consent-form">
+   Consent Form
+  </a>
+ </li>
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#q1-rank-the-music-in-order-of-preference">
    Q1. Rank the music in order of preference.
@@ -172,7 +179,6 @@
 
         </nav>
         
-        </div>
     </div>
 </div>
     <div id="main-content" class="row">
@@ -184,7 +190,11 @@
 <h1>Music Survey<a class="headerlink" href="#music-survey" title="Permalink to this headline">¶</a></h1>
 <!-- Place this tag in your head or just before your close body tag. -->
 <br>
-<p>We are conducting a short survey about aspects of music. Please use headphones if possible.</p>
+<p>We are conducting a short survey about aspects of music.  <em>Please use headphones if possible.</em></p>
+<div class="section" id="consent-form">
+<h2>Consent Form<a class="headerlink" href="#consent-form" title="Permalink to this headline">¶</a></h2>
+<p>Before begining the survey please view/download the consent form:</p>
+<p>📄 <strong><a class="reference external" href="https://github.com/jmhuer/jmhuer.github.io/raw/master/latex-resume/juan-cv/resume.pdf"><em>Donwload Consent Form</em></a></strong></p>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <form action="https://formtoemail.com/user_forms.php" method="post">
 <input type="hidden" name="user_id" value="15ZGUBUCEH0AJRM5OZBA">
@@ -194,9 +204,10 @@
 <b>
 <textarea rows="1" cols="20" type="text" name="EX0 SCORE"></textarea>
 <br><br>
-<p><strong>Please rate your current musical abilities 1 - 10</strong></p>
+<p><strong>Please describe your current musical abiltiies</strong></p>
 <b>
-<textarea rows="1" cols="20" type="text" name="EX1 SCORE"></textarea>
+<textarea rows="6" style="width:22em" placeholder="" type="text" name="comment"></textarea><br><br><br>
+</div>
 <hr class="docutils" />
 <div class="section" id="q1-rank-the-music-in-order-of-preference">
 <h2>Q1. Rank the music in order of preference.<a class="headerlink" href="#q1-rank-the-music-in-order-of-preference" title="Permalink to this headline">¶</a></h2>
@@ -370,6 +381,8 @@ Your browser does not support the audio element.
 <input type="reset" value="Reset">
 </form>
 <br>
+<div class="toctree-wrapper compound">
+</div>
 </div>
 </div>
 
@@ -395,21 +408,19 @@ Your browser does not support the audio element.
 
               </div>
               
+        </div>
+    </div>
+    
+    
+    <div class='prev-next-bottom'>
         
-        <div class='prev-next-bottom'>
-            
 
-        </div>
-        
-        </div>
     </div>
     <footer class="footer mt-5 mt-md-0">
     <div class="container">
       <p>
         
-          By Juan Huerta<br/>
-        
-            &copy; Copyright 2020.<br/>
+ 
       </p>
     </div>
   </footer>
