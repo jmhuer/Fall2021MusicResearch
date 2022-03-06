@@ -45,8 +45,14 @@ For example: 5
 Your browser does not support the audio element.
 </audio><br>
 <br>
-<br><textarea rows="1" cols="20" type="text" name="EX3 SCORE"></textarea>
-
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label for="vehicle1"> 1 </label><br>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <label for="vehicle2"> 2 </label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle3"> 3 </label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle4"> 4 </label><br><br>
 
 **B.**
 
@@ -55,8 +61,14 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
-<br><textarea rows="1" cols="20" type="text" name="EX3 SCORE"></textarea>
-
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label for="vehicle1"> 1 </label><br>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <label for="vehicle2"> 2 </label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle3"> 3 </label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle4"> 4 </label><br><br>
 
 **C.**
 
@@ -65,8 +77,14 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
-<br><textarea rows="1" cols="20" type="text" name="EX3 SCORE"></textarea>
-
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label for="vehicle1"> 1 </label><br>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <label for="vehicle2"> 2 </label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle3"> 3 </label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle4"> 4 </label><br><br>
 
 **D.**
 
@@ -75,7 +93,14 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
-<br><textarea rows="1" cols="20" type="text" name="EX3 SCORE"></textarea>
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label for="vehicle1"> 1 </label><br>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <label for="vehicle2"> 2 </label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle3"> 3 </label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle4"> 4 </label><br><br>
 
 
 **E.**
@@ -84,7 +109,15 @@ Your browser does not support the audio element.
   <source src="../../../a.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
-<br><textarea rows="1" cols="20" type="text" name="EX2 SCORE"></textarea>
+<br>
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label for="vehicle1"> 1 </label><br>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <label for="vehicle2"> 2 </label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle3"> 3 </label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle4"> 4 </label><br><br>
 
 ---
 
@@ -98,7 +131,14 @@ For example: 7
 Your browser does not support the audio element.
 </audio><br>
 <br>
-<br><textarea rows="1" cols="20" type="text" name="EX3 SCORE"></textarea>
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label for="vehicle1"> 1 </label><br>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <label for="vehicle2"> 2 </label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle3"> 3 </label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle4"> 4 </label><br><br>
 
 
 **B.**
@@ -108,7 +148,14 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
-<br><textarea rows="1" cols="20" type="text" name="EX3 SCORE"></textarea>
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label for="vehicle1"> 1 </label><br>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <label for="vehicle2"> 2 </label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle3"> 3 </label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle4"> 4 </label><br><br>
 
 
 **C.**
@@ -118,7 +165,14 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
-<br><textarea rows="1" cols="20" type="text" name="EX3 SCORE"></textarea>
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label for="vehicle1"> 1 </label><br>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <label for="vehicle2"> 2 </label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle3"> 3 </label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle4"> 4 </label><br><br>
 
 
 **D.**
@@ -128,7 +182,14 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
-<br><textarea rows="1" cols="20" type="text" name="EX3 SCORE"></textarea>
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label for="vehicle1"> 1 </label><br>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <label for="vehicle2"> 2 </label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle3"> 3 </label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle4"> 4 </label><br><br>
 
 
 **E.**
@@ -137,7 +198,15 @@ Your browser does not support the audio element.
   <source src="../../../a.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
-<br><textarea rows="1" cols="20" type="text" name="EX3 SCORE"></textarea>
+<br>
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label for="vehicle1"> 1 </label><br>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <label for="vehicle2"> 2 </label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle3"> 3 </label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle4"> 4 </label><br><br>
 
 ---
 
@@ -159,7 +228,10 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
-<textarea rows="1" cols="20" type="text" name="EX4 SCORE"></textarea><br><br>
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label for="vehicle1"> A </label><br>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <label for="vehicle2"> B </label><br>
 <br>
 
 
@@ -178,7 +250,10 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
-<textarea rows="1" cols="20" type="text" name="EX5 SCORE"></textarea><br><br>
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label for="vehicle1"> A </label><br>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <label for="vehicle2"> B </label><br>
 <br>
 
 
@@ -197,8 +272,10 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
-<br>
-<textarea rows="1" cols="20" type="text" name="EX6 SCORE"></textarea><br><br>
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label for="vehicle1"> A </label><br>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <label for="vehicle2"> B </label><br>
 <br>
 
 ---
@@ -221,7 +298,10 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
-<textarea rows="1" cols="20" type="text" name="EX6 SCORE"></textarea><br><br>
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label for="vehicle1"> A </label><br>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <label for="vehicle2"> B </label><br>
 <br>
 
 
@@ -240,7 +320,10 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
-<textarea rows="1" cols="20" type="text" name="EX7 SCORE"></textarea><br><br>
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label for="vehicle1"> A </label><br>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <label for="vehicle2"> B </label><br>
 <br>
 
 
@@ -259,8 +342,10 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
-<br>
-<textarea rows="1" cols="20" type="text" name="EX6 SCORE"></textarea><br><br>
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label for="vehicle1"> A </label><br>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <label for="vehicle2"> B </label><br>
 <br>
 
 <br>
