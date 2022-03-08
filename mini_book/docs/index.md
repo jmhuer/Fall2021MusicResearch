@@ -35,8 +35,7 @@ Before begining the survey please view/download the consent form:
 
 
 ---
-### Q1. Score from 1 - 10 according to your preference 
-For example: 5
+### Q1. Score from 1 - 4 according to your preference 
 
 **A.**
 
@@ -121,8 +120,7 @@ Your browser does not support the audio element.
 
 ---
 
-### Q2. Score from 1 - 10 according to perceived complexity 
-For example: 7
+### Q2. Score from 1 - 4 according to perceived complexity 
 
 **A.**
 
@@ -211,7 +209,6 @@ Your browser does not support the audio element.
 ---
 
 ### Q3. Pick the piece that sounds more human
-For example: A
 
 **A.**
 
@@ -281,7 +278,6 @@ Your browser does not support the audio element.
 ---
 
 ### Q4. Pick the piece that sounds more human
-For example: B
 
 **A.**
 
