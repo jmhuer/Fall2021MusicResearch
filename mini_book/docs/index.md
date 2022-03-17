@@ -25,7 +25,7 @@ Before begining the survey please view/download the consent form:
 **Name?**
 
 <b>
-<textarea rows="1" cols="20" type="text" name="EX0 SCORE"></textarea>
+<textarea rows="1" cols="20" type="text" name="FROM1:HIST"></textarea>
 <br><br>
 
 **Please describe your current musical abiltiies**
@@ -235,7 +235,7 @@ Your browser does not support the audio element.
 **A.**
 
 <audio controls>
-  <source src="../../../human_feedback/group1/DGroup1_1.0_1.wav" type="audio/wav">
+  <source src="../../../human_feedback/group2/EGroup2_1.0_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -243,7 +243,7 @@ Your browser does not support the audio element.
 **B.**
 
 <audio controls>
-  <source src="../../../human_feedback/group1/DGroup1_1.9_1.wav" type="audio/wav">
+  <source src="../../../human_feedback/group2/EGroup2_1.9_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -257,7 +257,7 @@ Your browser does not support the audio element.
 **A.**
 
 <audio controls>
-  <source src="../../../human_feedback/group1/DGroup1_0.5_1.wav" type="audio/wav">
+  <source src="../../../human_feedback/group3/KGroup3_0.5_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -265,7 +265,7 @@ Your browser does not support the audio element.
 **B.**
 
 <audio controls>
-  <source src="../../../human_feedback/group1/DGroup1_1.0_1.wav" type="audio/wav">
+  <source src="../../../human_feedback/group3/KGroup3_1.0_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -282,7 +282,7 @@ Your browser does not support the audio element.
 **A.**
 
 <audio controls>
-  <source src="../../../human_feedback/group1/AGroup1_1.0_1.wav" type="audio/wav">
+  <source src="../../../human_feedback/group1/DGroup1_1.0_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -290,7 +290,7 @@ Your browser does not support the audio element.
 **B.**
 
 <audio controls>
-  <source src="../../../human_feedback/group1/AGroup1_1.9_1.wav" type="audio/wav">
+  <source src="../../../human_feedback/group1/DGroup1_1.9_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -304,7 +304,7 @@ Your browser does not support the audio element.
 **A.**
 
 <audio controls>
-  <source src="../../../human_feedback/group1/AGroup1_0.5_1.wav" type="audio/wav">
+  <source src="../../../human_feedback/group3/LGroup3_0.5_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -312,7 +312,7 @@ Your browser does not support the audio element.
 **B.**
 
 <audio controls>
-  <source src="../../../human_feedback/group1/AGroup1_1.5_1.wav" type="audio/wav">
+  <source src="../../../human_feedback/group3/LGroup3_1.5_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -326,7 +326,7 @@ Your browser does not support the audio element.
 **A.**
 
 <audio controls>
-  <source src="../../../human_feedback/group1/AGroup1_1.0_1.wav" type="audio/wav">
+  <source src="../../../human_feedback/group3/NGroup3_1.0_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -334,7 +334,7 @@ Your browser does not support the audio element.
 **B.**
 
 <audio controls>
-  <source src="../../../human_feedback/group1/AGroup1_1.9_1.wav" type="audio/wav">
+  <source src="../../../human_feedback/group3/NGroup3_1.9_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
