@@ -37,6 +37,8 @@ Before begining the survey please view/download the consent form:
 ---
 ### Q1. Score from 1 - 4 according to your preference 
 
+Please try to score your preference relative to the following examples. 
+
 **A.**
 
 <audio controls>
@@ -44,14 +46,16 @@ Before begining the survey please view/download the consent form:
 Your browser does not support the audio element.
 </audio><br>
 <br>
-  <input type="checkbox" id="1" name="1" value="1">
+ <input type="checkbox" id="1" name="1" value="1">
   <label for="1"> 1 </label><br>
   <input type="checkbox" id="2" name="2" value="2">
   <label for="2"> 2 </label><br>
   <input type="checkbox" id="3" name="3" value="3">
   <label for="3"> 3 </label><br>
   <input type="checkbox" id="4" name="4" value="4">
-  <label for="4"> 4 </label><br><br>
+  <label for="4"> 4 </label><br>
+  <input type="checkbox" id="5" name="5" value="5">
+  <label for="5"> 5 </label><br><br>
 
 **B.**
 
@@ -60,14 +64,16 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
-  <input type="checkbox" id="5" name="5" value="5">
-  <label for="5"> 1 </label><br>
-  <input type="checkbox" id="6" name="6" value="6">
-  <label for="6"> 2 </label><br>
+ <input type="checkbox" id="6" name="6" value="6">
+  <label for="6"> 1 </label><br>
   <input type="checkbox" id="7" name="7" value="7">
-  <label for="7"> 3 </label><br>
+  <label for="7"> 2 </label><br>
   <input type="checkbox" id="8" name="8" value="8">
-  <label for="8"> 4 </label><br><br>
+  <label for="8"> 3 </label><br>
+  <input type="checkbox" id="9" name="9" value="9">
+  <label for="9"> 4 </label><br>
+  <input type="checkbox" id="10" name="10" value="10">
+  <label for="10"> 5 </label><br><br>
 
 **C.**
 
@@ -76,14 +82,16 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
-  <input type="checkbox" id="9" name="9" value="9">
-  <label for="9"> 1 </label><br>
-  <input type="checkbox" id="10" name="10" value="10">
-  <label for="10"> 2 </label><br>
   <input type="checkbox" id="11" name="11" value="11">
-  <label for="11"> 3 </label><br>
+  <label for="11"> 1 </label><br>
   <input type="checkbox" id="12" name="12" value="12">
-  <label for="12"> 4 </label><br><br>
+  <label for="12"> 2 </label><br>
+  <input type="checkbox" id="13" name="13" value="13">
+  <label for="13"> 3 </label><br>
+  <input type="checkbox" id="14" name="14" value="14">
+  <label for="14"> 4 </label><br>
+  <input type="checkbox" id="15" name="15" value="15">
+  <label for="15"> 5 </label><br><br>
 
 **D.**
 
@@ -92,40 +100,22 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
-  <input type="checkbox" id="13" name="13" value="13">
-  <label for="13"> 1 </label><br>
-  <input type="checkbox" id="14" name="14" value="14">
-  <label for="14"> 2 </label><br>
-  <input type="checkbox" id="15" name="15" value="15">
-  <label for="15"> 3 </label><br>
   <input type="checkbox" id="16" name="16" value="16">
-  <label for="16"> 4 </label><br><br>
+  <label for="16"> 1 </label><br>
+  <input type="checkbox" id="17" name="17" value="17">
+  <label for="17"> 2 </label><br>
+  <input type="checkbox" id="18" name="18" value="18">
+  <label for="18"> 3 </label><br>
+  <input type="checkbox" id="19" name="19" value="19">
+  <label for="19"> 4 </label><br>
+  <input type="checkbox" id="20" name="20" value="20">
+  <label for="20"> 5 </label><br><br>
 
 
 **E.**
 
 <audio controls>
   <source src="../../../human_feedback/group2/EGroup2_1.9_1.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio><br>
-<br>
-  <input type="checkbox" id="17" name="17" value="17">
-  <label for="17"> 1 </label><br>
-  <input type="checkbox" id="18" name="18" value="18">
-  <label for="18"> 2 </label><br>
-  <input type="checkbox" id="19" name="19" value="19">
-  <label for="19"> 3 </label><br>
-  <input type="checkbox" id="20" name="20" value="20">
-  <label for="20"> 4 </label><br><br>
-
----
-
-### Q2. Score from 1 - 4 according to perceived complexity 
-
-**A.**
-
-<audio controls>
-  <source src="../../../human_feedback/group2/FGroup2_0.5_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -136,7 +126,33 @@ Your browser does not support the audio element.
   <input type="checkbox" id="23" name="23" value="23">
   <label for="23"> 3 </label><br>
   <input type="checkbox" id="24" name="24" value="24">
-  <label for="24"> 4 </label><br><br>
+  <label for="24"> 4 </label><br>
+  <input type="checkbox" id="25" name="25" value="25">
+  <label for="25"> 5 </label><br><br>
+
+---
+
+### Q2. Score from 1 - 4 according to perceived complexity 
+
+Please try to score your preference relative to the following examples. 
+
+**A.**
+
+<audio controls>
+  <source src="../../../human_feedback/group2/FGroup2_0.5_1.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio><br>
+<br>
+ <input type="checkbox" id="26" name="26" value="26">
+  <label for="26"> 1 </label><br>
+  <input type="checkbox" id="27" name="27" value="27">
+  <label for="27"> 2 </label><br>
+  <input type="checkbox" id="28" name="28" value="28">
+  <label for="28"> 3 </label><br>
+  <input type="checkbox" id="29" name="29" value="29">
+  <label for="29"> 4 </label><br>
+  <input type="checkbox" id="30" name="30" value="30">
+  <label for="30"> 5 </label><br><br>
 
 
 **B.**
@@ -146,14 +162,16 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
-  <input type="checkbox" id="25" name="25" value="25">
-  <label for="25"> 1 </label><br>
-  <input type="checkbox" id="26" name="26" value="26">
-  <label for="26"> 2 </label><br>
-  <input type="checkbox" id="27" name="27" value="27">
-  <label for="27"> 3 </label><br>
-  <input type="checkbox" id="28" name="28" value="28">
-  <label for="28"> 4 </label><br><br>
+ <input type="checkbox" id="31" name="31" value="31">
+  <label for="31"> 1 </label><br>
+  <input type="checkbox" id="32" name="32" value="32">
+  <label for="32"> 2 </label><br>
+  <input type="checkbox" id="33" name="33" value="33">
+  <label for="33"> 3 </label><br>
+  <input type="checkbox" id="34" name="34" value="34">
+  <label for="34"> 4 </label><br>
+  <input type="checkbox" id="35" name="35" value="35">
+  <label for="35"> 5 </label><br><br>
 
 
 **C.**
@@ -163,14 +181,16 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
-  <input type="checkbox" id="29" name="29" value="29">
-  <label for="29"> 1 </label><br>
-  <input type="checkbox" id="30" name="30" value="30">
-  <label for="30"> 2 </label><br>
-  <input type="checkbox" id="31" name="31" value="31">
-  <label for="31"> 3 </label><br>
-  <input type="checkbox" id="32" name="32" value="32">
-  <label for="32"> 4 </label><br><br>
+ <input type="checkbox" id="36" name="36" value="36">
+  <label for="36"> 1 </label><br>
+  <input type="checkbox" id="37" name="37" value="37">
+  <label for="37"> 2 </label><br>
+  <input type="checkbox" id="38" name="38" value="38">
+  <label for="38"> 3 </label><br>
+  <input type="checkbox" id="39" name="39" value="39">
+  <label for="38"> 4 </label><br>
+  <input type="checkbox" id="40" name="40" value="40">
+  <label for="40"> 5 </label><br><br>
 
 
 **D.**
@@ -180,14 +200,16 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
-  <input type="checkbox" id="33" name="33" value="33">
-  <label for="33"> 1 </label><br>
-  <input type="checkbox" id="34" name="34" value="34">
-  <label for="34"> 2 </label><br>
-  <input type="checkbox" id="35" name="35" value="35">
-  <label for="35"> 3 </label><br>
-  <input type="checkbox" id="36" name="36" value="36">
-  <label for="36"> 4 </label><br><br>
+ <input type="checkbox" id="41" name="41" value="41">
+  <label for="41"> 1 </label><br>
+  <input type="checkbox" id="42" name="42" value="42">
+  <label for="42"> 2 </label><br>
+  <input type="checkbox" id="43" name="43" value="43">
+  <label for="43"> 3 </label><br>
+  <input type="checkbox" id="44" name="44" value="44">
+  <label for="44"> 4 </label><br>
+  <input type="checkbox" id="45" name="45" value="45">
+  <label for="45"> 5 </label><br><br>
 
 
 **E.**
@@ -197,14 +219,16 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
-  <input type="checkbox" id="37" name="37" value="37">
-  <label for="37"> 1 </label><br>
-  <input type="checkbox" id="38" name="38" value="38">
-  <label for="38"> 2 </label><br>
-  <input type="checkbox" id="39" name="39" value="39">
-  <label for="39"> 3 </label><br>
-  <input type="checkbox" id="40" name="40" value="40">
-  <label for="40"> 4 </label><br><br>
+ <input type="checkbox" id="46" name="46" value="46">
+  <label for="46"> 1 </label><br>
+  <input type="checkbox" id="47" name="47" value="47">
+  <label for="37"> 2 </label><br>
+  <input type="checkbox" id="48" name="48" value="48">
+  <label for="48"> 3 </label><br>
+  <input type="checkbox" id="49" name="49" value="49">
+  <label for="48"> 4 </label><br>
+  <input type="checkbox" id="50" name="50" value="50">
+  <label for="50"> 5 </label><br><br>
 
 ---
 
@@ -225,10 +249,10 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
-  <input type="checkbox" id="41" name="41" value="41">
-  <label for="41"> A </label><br>
-  <input type="checkbox" id="42" name="42" value="42">
-  <label for="42"> B </label><br>
+  <input type="checkbox" id="51" name="51" value="51">
+  <label for="51"> A </label><br>
+  <input type="checkbox" id="52" name="52" value="52">
+  <label for="52"> B </label><br>
 <br>
 
 
@@ -247,12 +271,11 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
-  <input type="checkbox" id="43" name="43" value="43">
+  <input type="checkbox" id="53" name="53" value="53">
   <label for="43"> A </label><br>
-  <input type="checkbox" id="44" name="44" value="44">
-  <label for="44"> B </label><br>
+  <input type="checkbox" id="54" name="54" value="54">
+  <label for="54"> B </label><br>
 <br>
-
 
 **A.**
 
@@ -269,11 +292,12 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio><br>
 <br>
-  <input type="checkbox" id="45" name="45" value="45">
-  <label for="45"> A </label><br>
-  <input type="checkbox" id="46" name="46" value="46">
-  <label for="46"> B </label><br>
+  <input type="checkbox" id="55" name="55" value="55">
+  <label for="55"> A </label><br>
+  <input type="checkbox" id="56" name="56" value="56">
+  <label for="56"> B </label><br>
 <br>
+
 
 ---
 
@@ -282,7 +306,7 @@ Your browser does not support the audio element.
 **A.**
 
 <audio controls>
-  <source src="../../../human_feedback/group2/JGroup1_1.0_1.wav" type="audio/wav">
+  <source src="../../../human_feedback/G_vary.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -290,21 +314,22 @@ Your browser does not support the audio element.
 **B.**
 
 <audio controls>
-  <source src="../../../human_feedback/group2/JGroup1_1.9_1.wav" type="audio/wav">
+  <source src="../../../human_feedback/G_human.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
-  <input type="checkbox" id="47" name="47" value="47">
-  <label for="47"> A </label><br>
-  <input type="checkbox" id="48" name="48" value="48">
-  <label for="48"> B </label><br>
+  <input type="checkbox" id="57" name="57" value="57">
+  <label for="57"> A </label><br>
+  <input type="checkbox" id="58" name="58" value="58">
+  <label for="58"> B </label><br>
 <br>
+
 
 
 **A.**
 
 <audio controls>
-  <source src="../../../human_feedback/group1/CGroup1_0.5_1.wav" type="audio/wav">
+  <source src="../../../human_feedback/N_vary.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -312,37 +337,16 @@ Your browser does not support the audio element.
 **B.**
 
 <audio controls>
-  <source src="../../../human_feedback/group1/CGroup1_1.5_1.wav" type="audio/wav">
+  <source src="../../../human_feedback/N_human.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
-  <input type="checkbox" id="49" name="49" value="49">
-  <label for="49"> A </label><br>
-  <input type="checkbox" id="50" name="50" value="50">
-  <label for="50"> B </label><br>
+  <input type="checkbox" id="59" name="59" value="59">
+  <label for="59"> A </label><br>
+  <input type="checkbox" id="60" name="60" value="60">
+  <label for="60"> B </label><br>
 <br>
 
-
-**A.**
-
-<audio controls>
-  <source src="../../../human_feedback/group1/DGroup1_1.0_1.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio><br>
-<br>
-
-**B.**
-
-<audio controls>
-  <source src="../../../human_feedback/group1/DGroup1_1.9_1.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio><br>
-<br>
-  <input type="checkbox" id="51" name="51" value="51">
-  <label for="51"> A </label><br>
-  <input type="checkbox" id="52" name="52" value="52">
-  <label for="52"> B </label><br>
-<br>
 
 <br>
 (Optional) Other comments? <br>
@@ -354,3 +358,4 @@ Your browser does not support the audio element.
 <input type="reset" value="Reset">
 </form>
 <br>
+
