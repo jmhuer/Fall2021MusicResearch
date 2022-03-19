@@ -42,7 +42,7 @@ Please try to score your preference relative to the following examples.
 **A.**
 
 <audio controls>
-  <source src="../../../human_feedback/group3/KGroup3_0.5_1.wav" type="audio/wav">
+  <source src="../../../human_feedback/group3/KGroup3_0.7_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -60,7 +60,7 @@ Your browser does not support the audio element.
 **B.**
 
 <audio controls>
-  <source src="../../../human_feedback/group3/KGroup3_0.7_1.wav" type="audio/wav">
+  <source src="../../../human_feedback/group3/KGroup3_0.5_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -78,7 +78,7 @@ Your browser does not support the audio element.
 **C.**
 
 <audio controls>
-  <source src="../../../human_feedback/group3/KGroup3_1.0_1.wav" type="audio/wav">
+  <source src="../../../human_feedback/group3/KGroup3_1.9_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -115,7 +115,7 @@ Your browser does not support the audio element.
 **E.**
 
 <audio controls>
-  <source src="../../../human_feedback/group3/KGroup3_1.9_1.wav" type="audio/wav">
+  <source src="../../../human_feedback/group3/KGroup3_1.0_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -134,12 +134,12 @@ Your browser does not support the audio element.
 
 ### Q2. Score from 1 - 4 according to perceived complexity 
 
-Please try to score your preference relative to the following examples. 
+Please try to score complexity relative to the following examples. 
 
 **A.**
 
 <audio controls>
-  <source src="../../../human_feedback/group3/LGroup3_0.5_1.wav" type="audio/wav">
+  <source src="../../../human_feedback/group3/LGroup3_1.9_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -177,7 +177,7 @@ Your browser does not support the audio element.
 **C.**
 
 <audio controls>
-  <source src="../../../human_feedback/group3/LGroup3_1.0_1.wav" type="audio/wav">
+  <source src="../../../human_feedback/group3/LGroup3_1.5_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -196,7 +196,7 @@ Your browser does not support the audio element.
 **D.**
 
 <audio controls>
-  <source src="../../../human_feedback/group3/LGroup3_1.5_1.wav" type="audio/wav">
+  <source src="../../../human_feedback/group3/LGroup3_1.0_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -215,7 +215,7 @@ Your browser does not support the audio element.
 **E.**
 
 <audio controls>
-  <source src="../../../human_feedback/group3/LGroup3_1.9_1.wav" type="audio/wav">
+  <source src="../../../human_feedback/group3/LGroup3_0.5_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -237,7 +237,7 @@ Your browser does not support the audio element.
 **A.**
 
 <audio controls>
-  <source src="../../../human_feedback/group3/NGroup3_0.5_1.wav" type="audio/wav">
+  <source src="../../../human_feedback/group3/SGroup3_1.0_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -245,7 +245,7 @@ Your browser does not support the audio element.
 **B.**
 
 <audio controls>
-  <source src="../../../human_feedback/group3/NGroup3_1.0_1.wav" type="audio/wav">
+  <source src="../../../human_feedback/group3/SGroup3_1.9_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -260,7 +260,7 @@ Your browser does not support the audio element.
 **A.**
 
 <audio controls>
-  <source src="../../../human_feedback/group3/SGroup3_1.0_1.wav" type="audio/wav">
+  <source src="../../../human_feedback/group3/NGroup3_1.5_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -268,7 +268,7 @@ Your browser does not support the audio element.
 **B.**
 
 <audio controls>
-  <source src="../../../human_feedback/group3/SGroup3_1.9_1.wav" type="audio/wav">
+  <source src="../../../human_feedback/group3/NGroup3_1.0_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -282,7 +282,7 @@ Your browser does not support the audio element.
 **A.**
 
 <audio controls>
-  <source src="../../../human_feedback/group2/EGroup2_0.5_1.wav" type="audio/wav">
+  <source src="../../../human_feedback/group2/EGroup2_1.5_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -302,13 +302,12 @@ Your browser does not support the audio element.
 
 
 ---
-
 ### Q4. Pick the piece that sounds more human
 
 **A.**
 
 <audio controls>
-  <source src="../../../human_feedback/L_vary.wav" type="audio/wav">
+  <source src="../../../human_feedback/D_vary.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -316,7 +315,7 @@ Your browser does not support the audio element.
 **B.**
 
 <audio controls>
-  <source src="../../../human_feedback/L_human.wav" type="audio/wav">
+  <source src="../../../human_feedback/D_human.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -327,11 +326,10 @@ Your browser does not support the audio element.
 <br>
 
 
-
 **A.**
 
 <audio controls>
-  <source src="../../../human_feedback/C_vary.wav" type="audio/wav">
+  <source src="../../../human_feedback/J_vary.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -339,7 +337,7 @@ Your browser does not support the audio element.
 **B.**
 
 <audio controls>
-  <source src="../../../human_feedback/C_human.wav" type="audio/wav">
+  <source src="../../../human_feedback/J_human.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio><br>
 <br>
@@ -348,7 +346,6 @@ Your browser does not support the audio element.
   <input type="checkbox" id="60" name="60" value="60">
   <label for="60"> B </label><br>
 <br>
-
 
 <br>
 (Optional) Other comments? <br>
@@ -360,4 +357,3 @@ Your browser does not support the audio element.
 <input type="reset" value="Reset">
 </form>
 <br>
-
