@@ -147,7 +147,7 @@ Your browser does not support the audio element.
 
 ### Q2. Score from 1 - 5 according to perceived complexity 
 
-Please score the following examples (A - D) according to your preference: 1 being the lowest appeal, 5 being the highest appeal. You are allowed to score different examples the same score, but try to spread out the scores to get a sense of what examples you prefer.
+Please score the following examples (A - D) according to your perceived complexity: 1 being the lowest complexity, 5 being the highest complexity. You are allowed to score different examples the same score, but try to spread out the scores to get a sense of what examples are more/less complex.
 
 **A.**
 
