@@ -22,6 +22,17 @@ Before begining the survey please view/download the consent form:
 <input type="hidden" name="form_id" value="1"><br>
 <b>
 
+**Do you consent?**
+
+<input type="checkbox" id="100" name="100" value="100">
+<label for="100"> Yes </label><br>
+<input type="checkbox" id="101" name="101" value="101">
+<label for="101"> No </label><br>
+
+If you do not consent, please do not proceed. 
+
+<br>
+
 **Name?**
 
 <b>
@@ -37,7 +48,7 @@ Before begining the survey please view/download the consent form:
 ---
 ### Q1. Score from 1 - 4 according to your preference 
 
-Please try to score your preference relative to the following examples. 
+Please score the following examples (A - D) according to your preference: 1 being the lowest appeal, 5 being the highest appeal. You are allowed to score different examples the same score, but try to spread out the scores to get a sense of what examples you prefer.
 
 **A.**
 
@@ -134,7 +145,7 @@ Your browser does not support the audio element.
 
 ### Q2. Score from 1 - 4 according to perceived complexity 
 
-Please try to score complexity relative to the following examples. 
+Please score the following examples (A - D) according to your preference: 1 being the lowest appeal, 5 being the highest appeal. You are allowed to score different examples the same score, but try to spread out the scores to get a sense of what examples you prefer.
 
 **A.**
 
