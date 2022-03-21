@@ -39,7 +39,7 @@ If you do not consent, please do not proceed.
 <textarea rows="1" cols="20" type="text" name="FROM2:HIST"></textarea>
 <br><br>
 
-**Please describe your current musical abiltiies**
+**Please briefly describe your musical background and abilities**
 
 <b>
 <textarea rows="6" style="width:22em" placeholder="" type="text" name="comment"></textarea><br><br><br>
