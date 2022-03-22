@@ -29,11 +29,11 @@ Before begining the survey please view/download the consent form:
 <input type="checkbox" id="101" name="101" value="101">
 <label for="101"> No </label><br>
 
-If you do not consent, please do not proceed. 
+❗️ If you do not consent, please do not proceed.
 
 <br>
 
-**Name?**
+**Name**
 
 <b>
 <textarea rows="1" cols="20" type="text" name="FROM2:HIST"></textarea>
@@ -245,7 +245,7 @@ Your browser does not support the audio element.
 
 ### Q3. Pick the piece that sounds more like a human composed it
 
-For each (A - B) pair, select either A, or B, according to which one you think was fully composed by a human. 
+You will be shown three A, B pairs. For each A, B pair, select either A or B according to which one you think was fully composed by a human. 
 
 **A.**
 
@@ -314,9 +314,9 @@ Your browser does not support the audio element.
 
 ---
 
-### Q4. Pick the piece that sounds more like a human composed it
+### Q4. Pick the piece that sounds more like a human composed it, Part 2
 
-For each (A - B) pair, select either A, or B, according to which one you think was fully composed by a human. 
+You will be shown three A, B pairs. For each A, B pair, select either A or B according to which one you think was fully composed by a human. 
 
 **A.**
 
