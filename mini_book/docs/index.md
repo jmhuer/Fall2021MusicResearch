@@ -318,7 +318,7 @@ Your browser does not support the audio element.
 ---
 
 
-### Q4. Pick the piece that sounds more like a human composed it, Part 2
+### Q3 - Part 2. Pick the piece that sounds more like a human composed it
 
 You will be shown three A, B pairs. For each A, B pair, select either A or B according to which one you think was fully composed by a human. 
 
