@@ -48,7 +48,7 @@ Before begining the survey please view/download the consent form:
 ---
 ### Q1. Score from 1 - 5 according to your preference 
 
-Please score the following examples (A - D) according to your preference: 1 being the lowest appeal, 5 being the highest appeal. You are allowed to score different examples the same score, but try to spread out the scores to get a sense of what examples you prefer.
+Please score the following examples (A - D) according to your preference: 1 being the lowest appeal, 5 being the highest appeal. You are allowed to score different examples the same score, but try to spread out the scores to give a sense of what examples you prefer.
 
 **A.**
 
@@ -145,7 +145,7 @@ Your browser does not support the audio element.
 
 ### Q2. Score from 1 - 5 according to perceived complexity 
 
-Please score the following examples (A - D) according to your perceived complexity: 1 being the lowest complexity, 5 being the highest complexity. You are allowed to score different examples the same score, but try to spread out the scores to get a sense of what examples are more/less complex.
+Please score the following examples (A - D) according to your perceived complexity: 1 being the lowest complexity, 5 being the highest complexity. You are allowed to score different examples the same score, but try to spread out the scores to give a sense of what examples are more/less complex.
 
 **A.**
 
@@ -317,7 +317,7 @@ Your browser does not support the audio element.
 ---
 ### Q3 - Part 2. Pick the piece that sounds more like a human composed it
 
-You will be shown three A, B pairs. For each A, B pair, select either A or B according to which one you think was fully composed by a human. 
+You will be shown two A, B pairs. For each A, B pair, select either A or B according to which one you think was fully composed by a human. 
 
 **A.**
 
