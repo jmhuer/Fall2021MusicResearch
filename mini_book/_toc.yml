@@ -1,4 +1,5 @@
 - file: docs/index
   sections:
+    - file: docs/index1
     - file: docs/index2
     - file: docs/index3
